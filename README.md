@@ -4,7 +4,7 @@ This is the EVM wallet for Ethereum, Goerli Ethereum testnet made with React, MU
 
 ## Setup project
 
-- Install node and rust on OS.
+- Install node and [rust](https://tauri.app/v1/guides/getting-started/prerequisites) on OS.
 - Run `npm install` to install node modules for project in the root directory.
 - Run `cargo update` to install rust dependencies in the `src-tauri` directory.
 - Run `npm run tauri dev` in the root directory for `dev-environment`.
