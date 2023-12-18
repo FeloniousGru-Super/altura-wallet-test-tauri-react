@@ -9,8 +9,8 @@ This is the EVM wallet for Ethereum, Goerli Ethereum testnet made with React, MU
 - Run `cargo update` to install rust dependencies in the `src-tauri` directory.
 - Run `npm run tauri dev` in the root directory for `dev-environment`.
 - Run `npm run tauri build` to release execution app.
-- Then you can get setup files and running file in `src-tauri\target\release` directory.
-- Check altura-wallet.exe file in ./release directory on Windows OS environment with this.
+- Then you can get setup files and running file in `src-tauri/target/release` directory.
+- Check `release/altura-wallet.exe` file on Windows OS environment with this.
 
 ## Features
 
