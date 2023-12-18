@@ -1,0 +1,1 @@
+# altura-wallet-test-tauri-react
